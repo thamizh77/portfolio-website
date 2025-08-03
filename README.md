@@ -1,2 +1,2 @@
-# portfolio-website
-Professional portfolio website
+                                                            🚀 My Personal Portfolio Website
+Crafted with pure HTML and CSS, this responsive portfolio showcases my skills, projects, and passion for web development. It features a clean layout, smooth navigation, and a custom design tailored to highlight my journey as a developer. Built from scratch without any frameworks, this site reflects my understanding of modern frontend fundamentals, including semantic HTML, CSS Flexbox, and responsive design principles.
